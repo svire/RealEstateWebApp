@@ -1,7 +1,7 @@
 # Real estate web application
 
 ## About
-Real estate web application built in JavaEE using MVC desing pattern with (Servlet/JSP/Beans).
+Real estate web application built in JavaEE using MVC desing pattern with (Servlet/JSP/JavaBeans), also using JavaScript/jQuery on client side.
 I actually rewrite whole app, i was build earlier, with intension of finishing my bachelor thesis. To satisfy the BSC thesis report format i focused on functionalities, that are most important for real estate agency.
 
 
@@ -45,6 +45,6 @@ During development of this project i used simplified Larman's method, with these
 
 You can see project documentation [**here**](https://github.com/svire/RealEstateWebApp/tree/master/documentation/docs.pdf).
 
-## Pictures 
+## Preview
 
-Take a look at galery [**here**](https://github.com/svire/RealEstateWebApp/tree/master/screenshots).
+Take a look at gallery [**here**](https://github.com/svire/RealEstateWebApp/tree/master/screenshots).
