@@ -1,7 +1,7 @@
 # Real estate web application
 
 ## About
-Real estate web application built in JavaEE using MVC desing pattern with (Servlet/JSP/JavaBeans), also using JavaScript/jQuery on client side.
+Real estate web application built in JavaEE using MVC desing pattern with (Servlet/JSP/JavaBeans), also using JavaScript and jQuery.
 I actually rewrite whole app, i was build earlier, with intension of finishing my bachelor thesis. To satisfy the BSC thesis report format i focused on functionalities, that are most important for real estate agency.
 
 
