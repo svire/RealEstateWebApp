@@ -47,4 +47,4 @@ You can see project documentation [**here**](https://github.com/svire/RealEstate
 
 ## Pictures 
 
-Take a look at galery [here]().
+Take a look at galery [**here**](https://github.com/svire/RealEstateWebApp/tree/master/screenshots).
